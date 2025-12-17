@@ -14,7 +14,8 @@ HOST-SUFFIX,ad.qidian.com,DIRECT
 HOST-SUFFIX,qidian.gtimg.com,DIRECT
 HOST-SUFFIX,ue.qidian.com,DIRECT
 HOST-SUFFIX,path.book.qq.com,DIRECT
-HOST-SUFFIX,ywab.reader.qq.com,DIRECT   # 新增福利广告域名
+HOST-SUFFIX,ywab.reader.qq.com,DIRECT
+HOST-SUFFIX,ynuf.aliapp.org,DIRECT   # 新增福利广告域名
 
 # === 统计/追踪 (DIRECT, 避免影响奖励) ===
 HOST-SUFFIX,analytics.qidian.com,DIRECT
